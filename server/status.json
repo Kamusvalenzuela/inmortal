@@ -1,6 +1,6 @@
 {
-  "status": "ONLINE",
-  "message": "Servidor encendido!",
-  "updated_at": "2026-11-04T14:43:44.586131",
+  "status": "OFFLINE",
+  "message": "Inactivo temporalmente",
+  "updated_at": "2026-11-04T15:16:45.669163",
   "maintenance_window": ""
 }
