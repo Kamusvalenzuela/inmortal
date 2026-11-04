@@ -1,0 +1,16 @@
+{
+  "updated_at": "2026-11-04T12:56:03.105190",
+  "total_articles": 1,
+  "articles": [
+    {
+      "id": "bienvenida-immortal-tower",
+      "title": "Algo grande se está asomando!",
+      "subtitle": "Estamos preparando el ascenso a la gran cima!",
+      "summary": "Estamos preparando el ascenso a la gran cima!",
+      "image_url": "https://raw.githubusercontent.com/Kamusvalenzuela/images/refs/heads/main/Images/noticia4.png",
+      "date": "2026-11-04",
+      "author": "Equipo de Desarrollo",
+      "article_url": "articles/bienvenida-immortal-tower.json"
+    }
+  ]
+}
