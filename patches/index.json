@@ -1,0 +1,20 @@
+{
+  "updated_at": "2026-11-04T12:57:22.310197",
+  "total_patches": 1,
+  "patches": [
+    {
+      "version": "1.0.0",
+      "title": "Lanzamiento Oficial de Immortal Tower",
+      "date": "2026-11-04",
+      "category": "Nuevas funciones",
+      "content": "Preparando todo para la gran apertura!",
+      "changes": [
+        "Apertura del Reino de la Torre con sistema de progresión de 10 pisos.",
+        "Clases iniciales",
+        "Sistema de rankings globales y recompensas semanales",
+        "Integración completa con el nuevo cliente y launcher oficial"
+      ],
+      "updated_at": "2026-11-04T12:57:22.309936"
+    }
+  ]
+}
