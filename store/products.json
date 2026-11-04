@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T12:57:50.770551",
+  "updated_at": "2026-11-04T14:43:10.040867",
   "total_products": 2,
   "products": [
     {
@@ -16,9 +16,9 @@
         "CLP": 2800.0,
         "EUR": 2.8
       },
-      "is_active": false,
+      "is_active": true,
       "payment_method": "Transferencia manual AstroPay / Directa",
-      "updated_at": "2026-11-04T12:57:46.217241"
+      "updated_at": "2026-11-04T14:43:06.504360"
     },
     {
       "id": "pack-hero-bundle",
@@ -34,9 +34,9 @@
         "CLP": 9500.0,
         "EUR": 9.5
       },
-      "is_active": false,
+      "is_active": true,
       "payment_method": "Transferencia manual AstroPay / Directa",
-      "updated_at": "2026-11-04T12:57:50.770301"
+      "updated_at": "2026-11-04T14:43:10.040615"
     }
   ]
 }
