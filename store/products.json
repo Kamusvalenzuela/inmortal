@@ -1,0 +1,42 @@
+{
+  "updated_at": "2026-11-04T12:57:50.770551",
+  "total_products": 2,
+  "products": [
+    {
+      "id": "pack-starter-coins",
+      "name": "Bolsa de Monedas Antiguas",
+      "description": "Contiene 500 Monedas de la Torre para mercaderes y cosméticos.",
+      "image_url": "https://immortaltower.net/assets/coins-small.png",
+      "coins": 500,
+      "prices": {
+        "ARS": 2500.0,
+        "BRL": 15.0,
+        "USD": 3.0,
+        "MXN": 60.0,
+        "CLP": 2800.0,
+        "EUR": 2.8
+      },
+      "is_active": false,
+      "payment_method": "Transferencia manual AstroPay / Directa",
+      "updated_at": "2026-11-04T12:57:46.217241"
+    },
+    {
+      "id": "pack-hero-bundle",
+      "name": "Cofre del Héroe Legendario",
+      "description": "2000 Monedas de la Torre + Título exclusivo 'Ascendente'.",
+      "image_url": "https://immortaltower.net/assets/coins-hero.png",
+      "coins": 2000,
+      "prices": {
+        "ARS": 8500.0,
+        "BRL": 50.0,
+        "USD": 10.0,
+        "MXN": 200.0,
+        "CLP": 9500.0,
+        "EUR": 9.5
+      },
+      "is_active": false,
+      "payment_method": "Transferencia manual AstroPay / Directa",
+      "updated_at": "2026-11-04T12:57:50.770301"
+    }
+  ]
+}
