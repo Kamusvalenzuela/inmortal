@@ -2,26 +2,14 @@
   "category": "classification",
   "title": "Top Clasificación",
   "metric_label": "Puntos",
-  "updated_at": "2026-11-04T10:25:49.335473",
-  "total_entries": 3,
+  "updated_at": "2026-11-04T14:51:34.995231",
+  "total_entries": 1,
   "entries": [
     {
       "position": 1,
-      "player_name": "LordValerius",
-      "score": 9850,
-      "description": "Guerrero Nivel 95"
-    },
-    {
-      "position": 2,
-      "player_name": "ShadowMage",
-      "score": 9200,
-      "description": "Hechicero Arcano"
-    },
-    {
-      "position": 3,
-      "player_name": "AuraKnight",
-      "score": 8900,
-      "description": "Paladín Solar"
+      "player_name": "Kamus",
+      "score": 140.0,
+      "description": "Admin"
     }
   ]
 }
