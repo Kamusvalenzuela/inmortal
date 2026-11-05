@@ -1,0 +1,25 @@
+{
+  "id": "clase-asesino",
+  "title": "🗡️ Asesino",
+  "category": "Clases",
+  "version": "1.0.0",
+  "summary": "Ejecutor Furtivo de Dagas de Asalto, Sigilo (Stealth) y Golpe Crítico 2.0x",
+  "image_url": "",
+  "stats": {
+    "HP Base": "430",
+    "MP Base": "190",
+    "AD (Físico)": "34",
+    "AP (Mágico)": "10",
+    "Defensa Física": "14",
+    "Defensa Mágica": "12",
+    "Velocidad (Speed)": "120",
+    "Armadura": "Light (Cuero)",
+    "Arma Principal": "Dagas de Asalto",
+    "Rol Principal": "Asesino / Burst Físico / Stealth"
+  },
+  "content": "# 🗡️ <span style=\"color: #A855F7;\"><b>Asesino</b></span>\n\n<span style=\"background-color: #A855F722; color: #A855F7; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">STEALTH & CRIT</span> <span style=\"background-color: #EF444422; color: #EF4444; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">SPEED 120</span>\n\nLa clase más veloz de *Immortal Tower* (**120 Speed**) y con el **mayor Daño Físico base (34 AD)**. Especializada en infiltrarse con invisibilidad, cegar y silenciar objetivos prioritarios.\n\n## 🪄 Kit de Hechizos Base (4 Spells)\n\n| # | Hechizo | Costo MP | Cooldown | Cast Time | Tipo / Mecánica | Efecto Detallado |\n|---|---|---|---|---|---|---|\n| 1 | **Cuchillada a la Yugular** | 25 MP | 1.8s | 100ms | <span style=\"color: #EF4444;\"><b>Melee Crit</b></span> | Corte quirúrgico instantáneo con multiplicador <span style=\"color: #F59E0B;\"><b>Crítico 2.0x</b></span>. |\n| 2 | **Bomba de Humo** | 45 MP | 8.0s | 200ms | <span style=\"color: #F59E0B;\"><b>AOE Blind</b></span> | Detona humo tóxico aplicando <span style=\"color: #F59E0B;\"><b>Blind (Ceguera) 3s</b></span> en **2 casillas**. |\n| 3 | **Paso de Sombra** | 60 MP | 18.0s | Instant | <span style=\"color: #A855F7;\"><b>Stealth Buff</b></span> | Entra en **Sigilo**, <span style=\"color: #10B981;\"><b>+60% AD y +40% Speed</b></span> (<span style=\"color: #EF4444;\"><b>-15 HP/s</b></span>) por **5s**. |\n| 4 | **Ráfaga de Shurikens** | 70 MP | 7.0s | 300ms | <span style=\"color: #38BDF8;\"><b>AOE Rango</b></span> | Lanza cuchillas en abanico aplicando <span style=\"color: #A855F7;\"><b>Silence 2s</b></span> en área. |",
+  "whats_new": "Mayor velocidad base (120 Speed), AD 34 y sigilo Paso de Sombra.",
+  "updated_at": "2026-11-05T09:51:30.103872",
+  "previous_version": null,
+  "history": []
+}
