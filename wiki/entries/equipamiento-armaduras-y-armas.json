@@ -1,0 +1,18 @@
+{
+  "id": "equipamiento-armaduras-y-armas",
+  "title": "🛡️ Progresión de Armaduras y Armas (Tiers 1 al 5)",
+  "category": "Items y Equipamiento",
+  "version": "1.0.0",
+  "summary": "Familias de Armadura (Robe, Light, Heavy, Escudos) y las 8 Categorías de Armas",
+  "image_url": "",
+  "stats": {
+    "Familias de Armadura": "4 (Robe, Light, Heavy, Escudo)",
+    "Categorías de Armas": "8 Tipos de Armas",
+    "Tiers de Progresión": "Tier 1 (P1-2) a Tier 5 (P9-10)"
+  },
+  "content": "# 🛡️ <span style=\"color: #38BDF8;\"><b>Progresión de Armaduras y Armas (Tiers 1 al 5)</b></span>\n\nEl equipamiento en **Immortal Tower** se divide en **4 familias de protección** y **8 familias de armas**, escalando a lo largo de 5 Tiers cada 2 pisos.\n\n## 🧥 Familias de Armaduras y Escudos\n\n| Familia | Clases Compatibles | Tier 1 (P1-2) | Tier 2 (P3-4) | Tier 3 (P5-6) | Tier 4 (P7-8) | Tier 5 (P9-10) |\n|---|---|---|---|---|---|---|\n| **Robe (Tela)** | Magos (Ofensivo, Defensivo, Curandero, Buffer) | +15 M.Def, +40 MP | +32 M.Def, +90 MP | +55 M.Def, +160 MP | +85 M.Def, +250 MP | +130 M.Def, +400 MP |\n| **Light (Cuero)** | Asesino, Arquero, Pistolero, Guerrero AOE | +18 Def, +15 M.Def | +38 Def, +30 M.Def | +65 Def, +50 M.Def | +98 Def, +80 M.Def | +145 Def, +120 M.Def |\n| **Heavy (Placas)** | Guerrero Tanque, Guerrero AOE, Paladín | +30 Def, +80 HP | +62 Def, +180 HP | +105 Def, +320 HP | +160 Def, +500 HP | +240 Def, +800 HP |\n| **Escudos / Broqueles** | Guerrero Tanque, Paladín, Mago Defensivo | +12 Def/M.Def | +26 Def/M.Def | +45 Def/M.Def | +70 Def/M.Def | +110 Def/M.Def |\n\n## ⚔️ Las 8 Categorías de Armas\n\n| Tipo de Arma | Clases | Atributo Principal | Velocidad de Ataque | Rango Base |\n|---|---|---|---|---|\n| **Báculo Arcano** | Mago Ofensivo, Mago Defensivo | Alto AP (+20 a +180 AP) | Media | 5 casillas |\n| **Libro Sagrado / Armonías** | Mago Curandero, Mago Buffer | AP + Regeneración MP | Media-Rápida | 5 casillas |\n| **Espada Normal (1 Mano)** | Guerrero Tanque, Paladín | AD equilibrado + Defensa | Rápida | 1 casilla (Melee) |\n| **Espada Pesada (Mandoble)** | Guerrero AOE | AD masivo (+30 a +240 AD) | Lenta | 1-2 casillas |\n| **Dagas de Asalto** | Asesino | AD + Probabilidad Crítica | Ultrarrápida | 1 casilla (Melee) |\n| **Arco Recurvo** | Arquero | AD + Alcance extendido | Media-Rápida | 8 casillas |\n| **Pistolas Arcanas** | Pistolero | Híbrido AD + AP | Muy Rápida | 6 casillas |",
+  "whats_new": "Tablas completas de Armaduras y Armas por Tier sincronizadas desde la Guía Intersect.",
+  "updated_at": "2026-11-05T09:52:09.045534",
+  "previous_version": null,
+  "history": []
+}
