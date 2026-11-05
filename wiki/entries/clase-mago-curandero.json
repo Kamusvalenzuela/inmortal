@@ -1,0 +1,25 @@
+{
+  "id": "clase-mago-curandero",
+  "title": "✨ Mago Curandero",
+  "category": "Clases",
+  "version": "1.0.0",
+  "summary": "Clérigo de Luz Sagrada, Curación Directa y Purificación Grupal (Cleanse)",
+  "image_url": "",
+  "stats": {
+    "HP Base": "420",
+    "MP Base": "340",
+    "AD (Físico)": "8",
+    "AP (Mágico)": "25",
+    "Defensa Física": "12",
+    "Defensa Mágica": "26",
+    "Velocidad (Speed)": "100",
+    "Armadura": "Robe (Tela)",
+    "Arma Principal": "Libro Sagrado",
+    "Rol Principal": "Healer Principal / Cleanse"
+  },
+  "content": "# ✨ <span style=\"color: #10B981;\"><b>Mago Curandero</b></span>\n\n<span style=\"background-color: #10B98122; color: #10B981; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">HEALER</span> <span style=\"background-color: #38BDF822; color: #38BDF8; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">CLEANSE</span>\n\nPilar indispensable para las incursiones de pisos superiores y jefes de mazmorra. Posee la **reserva de Maná más alta (340 MP)** y la capacidad única de limpiar estados alterados (*Cleanse*) en área.\n\n## 🪄 Kit de Hechizos Base (4 Spells)\n\n| # | Hechizo | Costo MP | Cooldown | Cast Time | Tipo / Mecánica | Efecto Detallado |\n|---|---|---|---|---|---|---|\n| 1 | **Centella Sagrada** | 25 MP | 1.8s | 400ms | <span style=\"color: #38BDF8;\"><b>Proyectil</b></span> | Daño luminoso y aplica <span style=\"color: #F59E0B;\"><b>Blind (Ceguera) 1.5s</b></span> al enemigo. |\n| 2 | **Resplandor Reparador** | 60 MP | 3.5s | 600ms | <span style=\"color: #10B981;\"><b>Target Friendly</b></span> | Cura **180 HP base** + escalado de **130% AP**. |\n| 3 | **Gracia del Mártir** | 80 MP | 15.0s | 300ms | <span style=\"color: #A855F7;\"><b>Self Buff</b></span> | Sacrifica <span style=\"color: #EF4444;\"><b>20 HP/s</b></span> propios para aumentar <span style=\"color: #10B981;\"><b>+60% Poder de Curación</b></span> por **5s**. |\n| 4 | **Círculo de Santuario** | 110 MP | 14.0s | 900ms | <span style=\"color: #10B981;\"><b>AOE Heal</b></span> | Sana a todos los aliados en **4 casillas** y ejecuta **Cleanse** de efectos negativos. |",
+  "whats_new": "Kit de curación directa, sacrificio de mártir y santuario en área.",
+  "updated_at": "2026-11-05T09:49:40.073266",
+  "previous_version": null,
+  "history": []
+}
