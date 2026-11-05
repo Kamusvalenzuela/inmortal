@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T14:43:10.040867",
+  "updated_at": "2026-11-05T10:08:37.952223",
   "total_products": 2,
   "products": [
     {
@@ -8,17 +8,26 @@
       "description": "Contiene 500 Monedas de la Torre para mercaderes y cosméticos.",
       "image_url": "https://immortaltower.net/assets/coins-small.png",
       "coins": 500,
+      "is_package": true,
+      "product_type": "Paquete / Bundle",
+      "badge_text": "¡PAQUETE ESPECIAL!",
+      "accent_color": "#F59E0B",
+      "included_items": [
+        "Título exclusivo: 'Early Supporter'",
+        "+1500 monedas extras",
+        "Rol de discord: 'Early Supporter'"
+      ],
       "prices": {
         "ARS": 2500.0,
         "BRL": 15.0,
-        "USD": 3.0,
-        "MXN": 60.0,
+        "USD": 2.0,
+        "MXN": 30.0,
         "CLP": 2800.0,
-        "EUR": 2.8
+        "EUR": 1.8
       },
       "is_active": true,
       "payment_method": "Transferencia manual AstroPay / Directa",
-      "updated_at": "2026-11-04T14:43:06.504360"
+      "updated_at": "2026-11-05T10:07:28.385491"
     },
     {
       "id": "pack-hero-bundle",
@@ -26,17 +35,25 @@
       "description": "2000 Monedas de la Torre + Título exclusivo 'Ascendente'.",
       "image_url": "https://immortaltower.net/assets/coins-hero.png",
       "coins": 2000,
+      "is_package": true,
+      "product_type": "Paquete / Bundle",
+      "badge_text": "Paquete especial",
+      "accent_color": "#00AAFF",
+      "included_items": [
+        "2000 Monedas de la torre",
+        "Título exclusivo 'Ascendente'"
+      ],
       "prices": {
-        "ARS": 8500.0,
+        "ARS": 10000.0,
         "BRL": 50.0,
-        "USD": 10.0,
-        "MXN": 200.0,
-        "CLP": 9500.0,
-        "EUR": 9.5
+        "USD": 8.0,
+        "MXN": 100.0,
+        "CLP": 10000.0,
+        "EUR": 7.5
       },
       "is_active": true,
       "payment_method": "Transferencia manual AstroPay / Directa",
-      "updated_at": "2026-11-04T14:43:10.040615"
+      "updated_at": "2026-11-05T10:08:37.947432"
     }
   ]
 }
