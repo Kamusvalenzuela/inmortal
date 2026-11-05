@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-11-05T09:53:00.807000",
+  "updated_at": "2026-11-05T10:04:46.032291",
   "total_updates": 17,
   "updates": [
+    {
+      "id": "clase-arquero",
+      "title": "🏹 Arquero",
+      "category": "Clases",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Alcance de 8 casillas y postura de francotirador (+80% AD).",
+      "stat_changes": [
+        {
+          "stat": "HP Base",
+          "old_value": "—",
+          "new_value": "460",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "MP Base",
+          "old_value": "—",
+          "new_value": "200",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AD (Físico)",
+          "old_value": "—",
+          "new_value": "32",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AP (Mágico)",
+          "old_value": "—",
+          "new_value": "8",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Física",
+          "old_value": "—",
+          "new_value": "15",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Mágica",
+          "old_value": "—",
+          "new_value": "15",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Velocidad (Speed)",
+          "old_value": "—",
+          "new_value": "115",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Armadura",
+          "old_value": "—",
+          "new_value": "Light (Cuero)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Arma Principal",
+          "old_value": "—",
+          "new_value": "Arco Recurvo",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Rol Principal",
+          "old_value": "—",
+          "new_value": "DPS Rango / Francotirador",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T10:04:46.022315"
+    },
     {
       "id": "sistema-rarezas-y-combate",
       "title": "💎 Sistema de Rarezas (11 Niveles) y Reglas Intersect",
@@ -616,87 +697,6 @@
         }
       ],
       "updated_at": "2026-11-05T09:51:05.380916"
-    },
-    {
-      "id": "clase-arquero",
-      "title": "🏹 Arquero",
-      "category": "Clases",
-      "previous_version": null,
-      "current_version": "1.0.0",
-      "whats_new": "Alcance de 8 casillas y postura de francotirador (+80% AD).",
-      "stat_changes": [
-        {
-          "stat": "HP Base",
-          "old_value": "—",
-          "new_value": "460",
-          "status": "ADDED",
-          "delta_str": "✨ Nuevo stat"
-        },
-        {
-          "stat": "MP Base",
-          "old_value": "—",
-          "new_value": "200",
-          "status": "ADDED",
-          "delta_str": "✨ Nuevo stat"
-        },
-        {
-          "stat": "AD (Físico)",
-          "old_value": "—",
-          "new_value": "32",
-          "status": "ADDED",
-          "delta_str": "✨ Nuevo stat"
-        },
-        {
-          "stat": "AP (Mágico)",
-          "old_value": "—",
-          "new_value": "8",
-          "status": "ADDED",
-          "delta_str": "✨ Nuevo stat"
-        },
-        {
-          "stat": "Defensa Física",
-          "old_value": "—",
-          "new_value": "15",
-          "status": "ADDED",
-          "delta_str": "✨ Nuevo stat"
-        },
-        {
-          "stat": "Defensa Mágica",
-          "old_value": "—",
-          "new_value": "15",
-          "status": "ADDED",
-          "delta_str": "✨ Nuevo stat"
-        },
-        {
-          "stat": "Velocidad (Speed)",
-          "old_value": "—",
-          "new_value": "115",
-          "status": "ADDED",
-          "delta_str": "✨ Nuevo stat"
-        },
-        {
-          "stat": "Armadura",
-          "old_value": "—",
-          "new_value": "Light (Cuero)",
-          "status": "ADDED",
-          "delta_str": "✨ Nuevo stat"
-        },
-        {
-          "stat": "Arma Principal",
-          "old_value": "—",
-          "new_value": "Arco Recurvo",
-          "status": "ADDED",
-          "delta_str": "✨ Nuevo stat"
-        },
-        {
-          "stat": "Rol Principal",
-          "old_value": "—",
-          "new_value": "DPS Rango / Francotirador",
-          "status": "ADDED",
-          "delta_str": "✨ Nuevo stat"
-        }
-      ],
-      "updated_at": "2026-11-05T09:50:55.772597"
     },
     {
       "id": "clase-mago-buffer",
