@@ -1,0 +1,20 @@
+{
+  "id": "jefes-guardianes-pisos-1-10",
+  "title": "👹 Jefes Guardianes de Piso (Pisos 1 al 10)",
+  "category": "Monstruos y Jefes",
+  "version": "1.0.0",
+  "summary": "Estadísticas, Mecánicas de Fase y Drops Exclusivos de los 10 Bosses",
+  "image_url": "",
+  "stats": {
+    "Total Jefes Alpha": "10 Jefes de Piso",
+    "Jefe Piso 1": "Kaelzar (4,500 HP)",
+    "Jefe Piso 5": "Cryonax (28,000 HP)",
+    "Jefe Piso 10": "Aethelgard, Rey Inmortal (150,000 HP)",
+    "Respawn Boss": "Instanciado / Sala de Trono"
+  },
+  "content": "# 👹 <span style=\"color: #EF4444;\"><b>Jefes Guardianes de Piso (1 al 10)</b></span>\n\nCada piso culmina en una **Sala del Trono** custodiada por un Jefe Guardián con mecánicas de control de masas y botín único.\n\n| Piso | Jefe Guardián | HP Base | AD / AP | Def / M.Def | Mecánicas Principales | Drop Destacado |\n|---|---|---|---|---|---|---|\n| **P1** | **Kaelzar, el Carcelero de Ceniza** | 4,500 | 45 / 10 | 20 / 15 | Golpe de Cadenas (<span style=\"color: #EF4444;\"><b>Snare 2s</b></span>), Rugido de Ceniza | *Llave de Cripta, Espada Oxidada Rara* |\n| **P2** | **Morgath, Señor de los Huesos** | 8,200 | 30 / 65 | 25 / 35 | Invocación de Esqueletos, Nova Necrótica (<span style=\"color: #F59E0B;\"><b>Blind</b></span>) | *Báculo de Hueso, Anillo de Morgath* |\n| **P3** | **Venomous, la Reina Hidra** | 13,500 | 75 / 80 | 35 / 35 | Charco Ácido, Escupitajo Venenoso (<span style=\"color: #A855F7;\"><b>Silence 2s</b></span>) | *Dagas de Colmillo Hidra, Coraza Escamosa* |\n| **P4** | **Ignis-Vulk, Coloso de la Forja** | 20,000 | 115 / 40 | 65 / 30 | Martillazo Sísmico (<span style=\"color: #EF4444;\"><b>Stun AOE 2s</b></span>), Piel de Magma | *Mandoble de Magma, Escudo de Escoria* |\n| **P5** | **Cryonax, Dragón de Escarcha** | 28,000 | 110 / 140 | 55 / 70 | Aliento Glacial (<span style=\"color: #EF4444;\"><b>Snare 3.5s</b></span>), Ventisca Cegadora | *Arco de Escarcha Eterna, Corazón Helado* |\n| **P6** | **Malakor, Archivero del Vacío** | 36,000 | 50 / 195 | 45 / 95 | Vórtice de Maná (<span style=\"color: #A855F7;\"><b>Silence 4s</b></span>), Teletransporte | *Libro del Vacío, Túnica Astral Tier 3* |\n| **P7** | **Sylvan-Rot, Árbol de la Peste** | 48,000 | 150 / 150 | 85 / 80 | Raíces Atrapantes (<span style=\"color: #EF4444;\"><b>Snare grupal</b></span>), Esporas Tóxicas | *Libro Sagrado de Savia, Botas Raíz* |\n| **P8** | **Voltarix, Arconte de la Tormenta** | 62,000 | 185 / 210 | 75 / 90 | Descarga en Cadena, Sobrecarga (<span style=\"color: #EF4444;\"><b>Stun 2.5s</b></span>) | *Pistolas de Plasma Arcano, Núcleo Volt* |\n| **P9** | **Azazel-Khor, Verdugo Abisal** | 88,000 | 260 / 180 | 110 / 100 | Guillotina Oscura (Ejecución), Grito de Terror | *Dagas Abisales Épicas, Placas de Obsidiana* |\n| **P10** | **Aethelgard, el Rey Inmortal** | 150,000 | 320 / 320 | 140 / 140 | Cambio de Fase (Espada/Magia), Juicio del Trono (<span style=\"color: #EF4444;\"><b>Stun + Silence</b></span>) | <span style=\"color: #F59E0B;\"><b>Armas Legendarias/Míticas Tier 5</b></span> |",
+  "whats_new": "Documentados los 10 Jefes de Piso desde Kaelzar (Piso 1) hasta Aethelgard (Piso 10).",
+  "updated_at": "2026-11-05T09:52:44.595129",
+  "previous_version": null,
+  "history": []
+}
