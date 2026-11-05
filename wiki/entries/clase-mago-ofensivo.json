@@ -1,0 +1,42 @@
+{
+  "id": "clase-mago-ofensivo",
+  "title": "🔥 Mago Ofensivo",
+  "category": "Clases",
+  "version": "1.0.0",
+  "summary": "Artillero Arcano de Daño Explosivo (Burst & AOE) — Báculo Arcano y Robe",
+  "image_url": "",
+  "stats": {
+    "HP Base": "380",
+    "MP Base": "320",
+    "AD (Físico)": "10",
+    "AP (Mágico)": "35",
+    "Defensa Física": "8",
+    "Defensa Mágica": "20",
+    "Velocidad (Speed)": "100",
+    "Armadura": "Robe (Tela)",
+    "Arma Principal": "Báculo Arcano",
+    "Rol Principal": "Burst Mágico / AOE"
+  },
+  "content": "# 🔥 <span style=\"color: #EF4444;\"><b>Mago Ofensivo</b></span>\n\n<span style=\"background-color: #EF444422; color: #EF4444; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">BURST MÁGICO</span> <span style=\"background-color: #F59E0B22; color: #F59E0B; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">AOE</span>\n\nEspecialista en canalizar energía ígnea y piroclástica para devastar grupos de enemigos a distancia. Posee el **AP inicial más alto del juego (35 AP)** a cambio de una defensa física frágil.\n\n## 📊 Resumen de Escalado\n- **Atributo Principal:** <span style=\"color: #38BDF8;\"><b>Ability Power (AP)</b></span> y <span style=\"color: #A855F7;\"><b>Maná (MP)</b></span>\n- **Equipamiento Exclusivo:** Armaduras tipo *Robe (Tela)* y *Báculos Arcanos*.\n\n## 🪄 Kit de Hechizos Base (4 Spells)\n\n| # | Hechizo | Costo MP | Cooldown | Cast Time | Tipo / Mecánica | Efecto Detallado |\n|---|---|---|---|---|---|---|\n| 1 | **Chispa Piroclástica** | 25 MP | 1.2s | 350ms | <span style=\"color: #38BDF8;\"><b>Proyectil</b></span> | Daño mágico base **65** (escala **AP 110%**). Rango lineal de alta cadencia. |\n| 2 | **Orbe de Ignición Concentrada** | 60 MP | 5.0s | 800ms | <span style=\"color: #F59E0B;\"><b>AOE Impacto</b></span> | Explota en el objetivo e inflige <span style=\"color: #EF4444;\"><b>Stun 1.2s</b></span> en radio de **2 casillas**. |\n| 3 | **Sobrecarga Magmática** | 85 MP | 18.0s | 500ms | <span style=\"color: #A855F7;\"><b>Self Buff</b></span> | Otorga <span style=\"color: #10B981;\"><b>+45% AP</b></span> pero penaliza <span style=\"color: #EF4444;\"><b>-30% Def Física</b></span> durante **8s**. |\n| 4 | **Pilar del Infierno** | 120 MP | 12.0s | 1200ms | <span style=\"color: #EF4444;\"><b>AOE 3 Tiles</b></span> | Invoca una columna de magma que inflige daño masivo y aplica <span style=\"color: #A855F7;\"><b>Silence 3s</b></span>. |",
+  "whats_new": "Estadísticas base Nv. 1 y 4 hechizos piroclásticos.",
+  "updated_at": "2026-11-05T09:51:05.380916",
+  "previous_version": {
+    "version": "0.9.0",
+    "updated_at": "2026-10-20T12:00:00",
+    "summary": "Versión pre-alpha del Mago Ofensivo.",
+    "stats": {
+      "HP Base": "350",
+      "MP Base": "300",
+      "AD (Físico)": "10",
+      "AP (Mágico)": "32",
+      "Defensa Física": "8",
+      "Defensa Mágica": "18",
+      "Velocidad (Speed)": "100",
+      "Armadura": "Robe (Tela)",
+      "Arma Principal": "Báculo Arcano",
+      "Rol Principal": "Burst Mágico / AOE"
+    },
+    "content": "# Mago Ofensivo\nVersión preliminar pre-alpha."
+  },
+  "history": []
+}
