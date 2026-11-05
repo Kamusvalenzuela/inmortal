@@ -1,0 +1,18 @@
+{
+  "id": "bestiario-creeps-pisos-1-10",
+  "title": "🐺 Bestiario de Monstruos (Creeps Pisos 1 al 10)",
+  "category": "Monstruos y Jefes",
+  "version": "1.0.0",
+  "summary": "Criaturas Hostiles, Arquetipos de IA y Drops de Materiales por Piso",
+  "image_url": "",
+  "stats": {
+    "Pisos Cubiertos": "Piso 1 al Piso 10",
+    "Criaturas por Piso": "3 Variantes (Melee, Rango/Magia, Élite)",
+    "Total Especies": "30 Criaturas Hostiles"
+  },
+  "content": "# 🐺 <span style=\"color: #10B981;\"><b>Bestiario de Monstruos (Creeps Pisos 1 al 10)</b></span>\n\nCada piso habita una ecología propia de monstruos que otorgan experiencia, oro y materiales de fabricación.\n\n| Piso | Criaturas del Piso | Nivel | HP Rango | Comportamiento / Mecánica | Materiales / Drops |\n|---|---|---|---|---|---|\n| **Piso 1** | Slime de Ceniza, Rata de Alcantarilla, Esqueleto Descarriado | Nv. 1–5 | 180 – 420 | Melee básico, persecución corta | *Gel de Ceniza, Hueso Astillado, Cobre* |\n| **Piso 2** | Necrófago Hambriento, Arquero Esqueleto, Acólito Oscuro | Nv. 6–10 | 500 – 950 | Proyectiles óseos y sangrado leve | *Colmillo Necrófago, Tela Rasgada* |\n| **Piso 3** | Sanguijuela Gigante, Sapo Venenoso, Chamán del Pantano | Nv. 11–15 | 1,100 – 1,800 | Veneno por segundo y charcos | *Glándula Venenosa, Cuero Húmedo* |\n| **Piso 4** | Autómata de Hierro, Gólem de Escoria, Ingeniero Enano | Nv. 16–20 | 2,000 – 3,200 | Alta defensa física, vulnerables a AP | *Engranaje Arcano, Mineral de Hierro* |\n| **Piso 5** | Lobo de Escarcha, Espectro Glacial, Gigante de Hielo | Nv. 21–25 | 3,400 – 5,000 | Ataques con ralentización (Slow) | *Piel Escarchada, Cristal de Hielo* |\n| **Piso 6** | Ojo Flotante, Adivino del Vacío, Gárgola de Obsidiana | Nv. 26–30 | 5,200 – 7,500 | Rayos mágicos a distancia y Silence | *Polvo Astral, Pergamino Antiguo* |\n| **Piso 7** | Hongo Explosivo, Devorador de Raíces, Dríade Corrupta | Nv. 31–35 | 7,800 – 10,500 | Detonación al morir y curación enemiga | *Espora Brillante, Madera Maldita* |\n| **Piso 8** | Elemental de Chispa, Centinela Tesla, Valquiria caída | Nv. 36–40 | 11,000 – 14,800 | Alta velocidad de movimiento y Stun corto | *Esfera Eléctrica, Acero Celeste* |\n| **Piso 9** | Sabueso Infernal, Demonio de Abismo, Verdugo Carmesí | Nv. 41–45 | 15,500 – 21,000 | Daño crítico elevado y quemadura | *Sangre Demoníaca, Obsidiana Pura* |\n| **Piso 10** | Guardia Real Inmortal, Paladín Caído, Arconte del Trono | Nv. 46–50 | 22,500 – 32,000 | Habilidades completas de clase e inmunidad parcial | *Insignia Real, Fragmento de Eternidad* |",
+  "whats_new": "Bestiario completo de los 10 pisos.",
+  "updated_at": "2026-11-05T09:52:36.114016",
+  "previous_version": null,
+  "history": []
+}
