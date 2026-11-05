@@ -1,5 +1,1026 @@
 {
-  "updated_at": "2026-11-05T07:50:20.255633",
-  "total_updates": 0,
-  "updates": []
+  "updated_at": "2026-11-05T09:53:00.807000",
+  "total_updates": 17,
+  "updates": [
+    {
+      "id": "sistema-rarezas-y-combate",
+      "title": "💎 Sistema de Rarezas (11 Niveles) y Reglas Intersect",
+      "category": "Sistemas y Lore",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Documentadas las 11 rarezas oficiales y las mecánicas de combate",
+      "stat_changes": [
+        {
+          "stat": "Total Rarezas",
+          "old_value": "—",
+          "new_value": "11 Niveles de Rareza",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Motor Base",
+          "old_value": "—",
+          "new_value": "Intersect Engine 2D",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Estados CC",
+          "old_value": "—",
+          "new_value": "Stun, Snare, Blind, Silence, Taunt, Stealth, Cleanse",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:53:00.798771"
+    },
+    {
+      "id": "arquitectura-10-pisos-alpha",
+      "title": "🗼 Arquitectura de los 10 Pisos de Immortal Tower",
+      "category": "Pisos y Mazmorras",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Documentación oficial de los 10 pisos y sus biomas",
+      "stat_changes": [
+        {
+          "stat": "Pisos Activos",
+          "old_value": "—",
+          "new_value": "10 Pisos (Alpha)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Nivel Máximo Alpha",
+          "old_value": "—",
+          "new_value": "Nivel 50",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Estructura por Piso",
+          "old_value": "—",
+          "new_value": "Vestíbulo + Zona Hostil + Sala del Trono",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:52:52.923915"
+    },
+    {
+      "id": "jefes-guardianes-pisos-1-10",
+      "title": "👹 Jefes Guardianes de Piso (Pisos 1 al 10)",
+      "category": "Monstruos y Jefes",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Documentados los 10 Jefes de Piso desde Kaelzar (Piso 1) hasta Aethelgard (Piso 10).",
+      "stat_changes": [
+        {
+          "stat": "Total Jefes Alpha",
+          "old_value": "—",
+          "new_value": "10 Jefes de Piso",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Jefe Piso 1",
+          "old_value": "—",
+          "new_value": "Kaelzar (4,500 HP)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Jefe Piso 5",
+          "old_value": "—",
+          "new_value": "Cryonax (28,000 HP)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Jefe Piso 10",
+          "old_value": "—",
+          "new_value": "Aethelgard, Rey Inmortal (150,000 HP)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Respawn Boss",
+          "old_value": "—",
+          "new_value": "Instanciado / Sala de Trono",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:52:44.595129"
+    },
+    {
+      "id": "bestiario-creeps-pisos-1-10",
+      "title": "🐺 Bestiario de Monstruos (Creeps Pisos 1 al 10)",
+      "category": "Monstruos y Jefes",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Bestiario completo de los 10 pisos.",
+      "stat_changes": [
+        {
+          "stat": "Pisos Cubiertos",
+          "old_value": "—",
+          "new_value": "Piso 1 al Piso 10",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Criaturas por Piso",
+          "old_value": "—",
+          "new_value": "3 Variantes (Melee, Rango/Magia, Élite)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Total Especies",
+          "old_value": "—",
+          "new_value": "30 Criaturas Hostiles",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:52:36.114016"
+    },
+    {
+      "id": "misiones-campana-alpha",
+      "title": "📜 Campaña Principal Alpha (Misiones Piso 1 al 10)",
+      "category": "Misiones",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Cargadas las 10 misiones oficiales con objetivos y recompensas exactas.",
+      "stat_changes": [
+        {
+          "stat": "Total Misiones",
+          "old_value": "—",
+          "new_value": "10 Misiones Principales",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Rango de Pisos",
+          "old_value": "—",
+          "new_value": "Piso 1 al Piso 10",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Recompensa Final",
+          "old_value": "—",
+          "new_value": "Título Conquistador Alpha + Llave Piso 11",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Oro Total",
+          "old_value": "—",
+          "new_value": "35,600 Oro",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "EXP Total",
+          "old_value": "—",
+          "new_value": "65,700 EXP",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:52:23.399939"
+    },
+    {
+      "id": "equipamiento-armaduras-y-armas",
+      "title": "🛡️ Progresión de Armaduras y Armas (Tiers 1 al 5)",
+      "category": "Items y Equipamiento",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Tablas completas de Armaduras y Armas por Tier sincronizadas desde la Guía Intersect.",
+      "stat_changes": [
+        {
+          "stat": "Familias de Armadura",
+          "old_value": "—",
+          "new_value": "4 (Robe, Light, Heavy, Escudo)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Categorías de Armas",
+          "old_value": "—",
+          "new_value": "8 Tipos de Armas",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Tiers de Progresión",
+          "old_value": "—",
+          "new_value": "Tier 1 (P1-2) a Tier 5 (P9-10)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:52:09.045534"
+    },
+    {
+      "id": "torneo-arcade-recompensas",
+      "title": "🏆 Arsenal y Hechizos Exclusivos de Torneo (Modo Arcade)",
+      "category": "Items y Equipamiento",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Añadidas las 8 armas y los 10 hechizos exclusivos de Torneo de la Sección 13 de la Guía.",
+      "stat_changes": [
+        {
+          "stat": "Rareza Torneo",
+          "old_value": "—",
+          "new_value": "Exclusivo Torneo (Color Dorado/Carmesí)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Total Armas",
+          "old_value": "—",
+          "new_value": "8 Armas de Campeón",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Total Hechizos",
+          "old_value": "—",
+          "new_value": "10 Spells Supremos (1 por Clase)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:52:00.964207"
+    },
+    {
+      "id": "clase-mago-defensivo",
+      "title": "🪨 Mago Defensivo",
+      "category": "Clases",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Geomancia con escalado en M.Def y control de masas.",
+      "stat_changes": [
+        {
+          "stat": "HP Base",
+          "old_value": "—",
+          "new_value": "460",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "MP Base",
+          "old_value": "—",
+          "new_value": "280",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AD (Físico)",
+          "old_value": "—",
+          "new_value": "12",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AP (Mágico)",
+          "old_value": "—",
+          "new_value": "22",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Física",
+          "old_value": "—",
+          "new_value": "18",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Mágica",
+          "old_value": "—",
+          "new_value": "25",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Velocidad (Speed)",
+          "old_value": "—",
+          "new_value": "95",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Armadura",
+          "old_value": "—",
+          "new_value": "Robe / Broquel",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Arma Principal",
+          "old_value": "—",
+          "new_value": "Báculo / Vara",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Rol Principal",
+          "old_value": "—",
+          "new_value": "Control (CC) / Tanque Mágico",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:51:49.682596"
+    },
+    {
+      "id": "clase-guerrero-tanque",
+      "title": "🛡️ Guerrero Tanque",
+      "category": "Clases",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "680 HP base, 32 Def Física y habilidades de Taunt y Baluarte.",
+      "stat_changes": [
+        {
+          "stat": "HP Base",
+          "old_value": "—",
+          "new_value": "680",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "MP Base",
+          "old_value": "—",
+          "new_value": "140",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AD (Físico)",
+          "old_value": "—",
+          "new_value": "24",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AP (Mágico)",
+          "old_value": "—",
+          "new_value": "5",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Física",
+          "old_value": "—",
+          "new_value": "32",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Mágica",
+          "old_value": "—",
+          "new_value": "18",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Velocidad (Speed)",
+          "old_value": "—",
+          "new_value": "90",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Armadura",
+          "old_value": "—",
+          "new_value": "Heavy (Placas)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Arma Principal",
+          "old_value": "—",
+          "new_value": "Espada Normal + Escudo",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Rol Principal",
+          "old_value": "—",
+          "new_value": "Main Tank / Frontline",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:51:40.098973"
+    },
+    {
+      "id": "clase-asesino",
+      "title": "🗡️ Asesino",
+      "category": "Clases",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Mayor velocidad base (120 Speed), AD 34 y sigilo Paso de Sombra.",
+      "stat_changes": [
+        {
+          "stat": "HP Base",
+          "old_value": "—",
+          "new_value": "430",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "MP Base",
+          "old_value": "—",
+          "new_value": "190",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AD (Físico)",
+          "old_value": "—",
+          "new_value": "34",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AP (Mágico)",
+          "old_value": "—",
+          "new_value": "10",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Física",
+          "old_value": "—",
+          "new_value": "14",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Mágica",
+          "old_value": "—",
+          "new_value": "12",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Velocidad (Speed)",
+          "old_value": "—",
+          "new_value": "120",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Armadura",
+          "old_value": "—",
+          "new_value": "Light (Cuero)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Arma Principal",
+          "old_value": "—",
+          "new_value": "Dagas de Asalto",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Rol Principal",
+          "old_value": "—",
+          "new_value": "Asesino / Burst Físico / Stealth",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:51:30.103872"
+    },
+    {
+      "id": "clase-pistolero",
+      "title": "🔫 Pistolero",
+      "category": "Clases",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Escalado dual AD/AP y enfriamiento de 1.0s en Bala de Mercurio.",
+      "stat_changes": [
+        {
+          "stat": "HP Base",
+          "old_value": "—",
+          "new_value": "450",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "MP Base",
+          "old_value": "—",
+          "new_value": "220",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AD (Físico)",
+          "old_value": "—",
+          "new_value": "28",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AP (Mágico)",
+          "old_value": "—",
+          "new_value": "16",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Física",
+          "old_value": "—",
+          "new_value": "14",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Mágica",
+          "old_value": "—",
+          "new_value": "14",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Velocidad (Speed)",
+          "old_value": "—",
+          "new_value": "115",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Armadura",
+          "old_value": "—",
+          "new_value": "Light (Cuero)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Arma Principal",
+          "old_value": "—",
+          "new_value": "Pistolas Arcanas",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Rol Principal",
+          "old_value": "—",
+          "new_value": "DPS Híbrido (AD/AP) / Cadencia",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:51:18.768264"
+    },
+    {
+      "id": "clase-mago-ofensivo",
+      "title": "🔥 Mago Ofensivo",
+      "category": "Clases",
+      "previous_version": "0.9.0",
+      "current_version": "1.0.0",
+      "whats_new": "Estadísticas base Nv. 1 y 4 hechizos piroclásticos.",
+      "stat_changes": [
+        {
+          "stat": "HP Base",
+          "old_value": "350",
+          "new_value": "380",
+          "status": "UP",
+          "delta_str": "▲ +30"
+        },
+        {
+          "stat": "MP Base",
+          "old_value": "300",
+          "new_value": "320",
+          "status": "UP",
+          "delta_str": "▲ +20"
+        },
+        {
+          "stat": "AP (Mágico)",
+          "old_value": "32",
+          "new_value": "35",
+          "status": "UP",
+          "delta_str": "▲ +3"
+        },
+        {
+          "stat": "Defensa Mágica",
+          "old_value": "18",
+          "new_value": "20",
+          "status": "UP",
+          "delta_str": "▲ +2"
+        }
+      ],
+      "updated_at": "2026-11-05T09:51:05.380916"
+    },
+    {
+      "id": "clase-arquero",
+      "title": "🏹 Arquero",
+      "category": "Clases",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Alcance de 8 casillas y postura de francotirador (+80% AD).",
+      "stat_changes": [
+        {
+          "stat": "HP Base",
+          "old_value": "—",
+          "new_value": "460",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "MP Base",
+          "old_value": "—",
+          "new_value": "200",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AD (Físico)",
+          "old_value": "—",
+          "new_value": "32",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AP (Mágico)",
+          "old_value": "—",
+          "new_value": "8",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Física",
+          "old_value": "—",
+          "new_value": "15",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Mágica",
+          "old_value": "—",
+          "new_value": "15",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Velocidad (Speed)",
+          "old_value": "—",
+          "new_value": "115",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Armadura",
+          "old_value": "—",
+          "new_value": "Light (Cuero)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Arma Principal",
+          "old_value": "—",
+          "new_value": "Arco Recurvo",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Rol Principal",
+          "old_value": "—",
+          "new_value": "DPS Rango / Francotirador",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:50:55.772597"
+    },
+    {
+      "id": "clase-mago-buffer",
+      "title": "🎵 Mago Buffer",
+      "category": "Clases",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Amplificadores de AD/AP y Éxtasis Temporal con invulnerabilidad.",
+      "stat_changes": [
+        {
+          "stat": "HP Base",
+          "old_value": "—",
+          "new_value": "400",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "MP Base",
+          "old_value": "—",
+          "new_value": "310",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AD (Físico)",
+          "old_value": "—",
+          "new_value": "14",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AP (Mágico)",
+          "old_value": "—",
+          "new_value": "24",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Física",
+          "old_value": "—",
+          "new_value": "12",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Mágica",
+          "old_value": "—",
+          "new_value": "22",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Velocidad (Speed)",
+          "old_value": "—",
+          "new_value": "105",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Armadura",
+          "old_value": "—",
+          "new_value": "Robe (Tela)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Arma Principal",
+          "old_value": "—",
+          "new_value": "Libro de Armonías",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Rol Principal",
+          "old_value": "—",
+          "new_value": "Support Ofensivo / Buffs",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:49:49.290457"
+    },
+    {
+      "id": "clase-mago-curandero",
+      "title": "✨ Mago Curandero",
+      "category": "Clases",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Kit de curación directa, sacrificio de mártir y santuario en área.",
+      "stat_changes": [
+        {
+          "stat": "HP Base",
+          "old_value": "—",
+          "new_value": "420",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "MP Base",
+          "old_value": "—",
+          "new_value": "340",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AD (Físico)",
+          "old_value": "—",
+          "new_value": "8",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AP (Mágico)",
+          "old_value": "—",
+          "new_value": "25",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Física",
+          "old_value": "—",
+          "new_value": "12",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Mágica",
+          "old_value": "—",
+          "new_value": "26",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Velocidad (Speed)",
+          "old_value": "—",
+          "new_value": "100",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Armadura",
+          "old_value": "—",
+          "new_value": "Robe (Tela)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Arma Principal",
+          "old_value": "—",
+          "new_value": "Libro Sagrado",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Rol Principal",
+          "old_value": "—",
+          "new_value": "Healer Principal / Cleanse",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:49:40.073266"
+    },
+    {
+      "id": "clase-paladin",
+      "title": "⚜️ Paladín",
+      "category": "Clases",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Tanque híbrido con curación grupal, armadura y Cleanse.",
+      "stat_changes": [
+        {
+          "stat": "HP Base",
+          "old_value": "—",
+          "new_value": "620",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "MP Base",
+          "old_value": "—",
+          "new_value": "240",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AD (Físico)",
+          "old_value": "—",
+          "new_value": "22",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AP (Mágico)",
+          "old_value": "—",
+          "new_value": "18",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Física",
+          "old_value": "—",
+          "new_value": "28",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Mágica",
+          "old_value": "—",
+          "new_value": "22",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Velocidad (Speed)",
+          "old_value": "—",
+          "new_value": "95",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Armadura",
+          "old_value": "—",
+          "new_value": "Heavy / Escudo",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Arma Principal",
+          "old_value": "—",
+          "new_value": "Espada Normal + Escudo",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Rol Principal",
+          "old_value": "—",
+          "new_value": "Off-Tank / Soporte Sagrado",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:49:14.645068"
+    },
+    {
+      "id": "clase-guerrero-aoe",
+      "title": "⚔️ Guerrero AOE",
+      "category": "Clases",
+      "previous_version": null,
+      "current_version": "1.0.0",
+      "whats_new": "Especialista en Espada Pesada, Torbellino 360° y Caída del Dragón.",
+      "stat_changes": [
+        {
+          "stat": "HP Base",
+          "old_value": "—",
+          "new_value": "550",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "MP Base",
+          "old_value": "—",
+          "new_value": "180",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AD (Físico)",
+          "old_value": "—",
+          "new_value": "30",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "AP (Mágico)",
+          "old_value": "—",
+          "new_value": "8",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Física",
+          "old_value": "—",
+          "new_value": "20",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Defensa Mágica",
+          "old_value": "—",
+          "new_value": "14",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Velocidad (Speed)",
+          "old_value": "—",
+          "new_value": "105",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Armadura",
+          "old_value": "—",
+          "new_value": "Heavy / Light",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Arma Principal",
+          "old_value": "—",
+          "new_value": "Espada Pesada (Mandoble)",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        },
+        {
+          "stat": "Rol Principal",
+          "old_value": "—",
+          "new_value": "Bruiser / Daño Físico AOE",
+          "status": "ADDED",
+          "delta_str": "✨ Nuevo stat"
+        }
+      ],
+      "updated_at": "2026-11-05T09:49:01.378679"
+    }
+  ]
 }
