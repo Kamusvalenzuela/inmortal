@@ -1,0 +1,18 @@
+{
+  "id": "arquitectura-10-pisos-alpha",
+  "title": "🗼 Arquitectura de los 10 Pisos de Immortal Tower",
+  "category": "Pisos y Mazmorras",
+  "version": "1.0.0",
+  "summary": "Biomas, Niveles Recomendados, Peligros Ambientales y Progresión Vertical",
+  "image_url": "",
+  "stats": {
+    "Pisos Activos": "10 Pisos (Alpha)",
+    "Nivel Máximo Alpha": "Nivel 50",
+    "Estructura por Piso": "Vestíbulo + Zona Hostil + Sala del Trono"
+  },
+  "content": "# 🗼 <span style=\"color: #A855F7;\"><b>Arquitectura de los 10 Pisos (Alpha)</b></span>\n\nCada piso de la Torre representa un ecosistema cerrado con su propia ambientación, peligros ambientales y guardián.\n\n| Piso | Nombre del Bioma | Nivel Rec. | Peligro / Mecánica Ambiental | Jefe Guardián |\n|---|---|---|---|---|\n| **Piso 1** | **Vestíbulo de Ceniza** | Nv. 1–5 | Pasillos derruidos y antorchas guía | *Kaelzar* |\n| **Piso 2** | **Criptas del Silencio** | Nv. 6–10 | Trampas de huesos y pasadizos oscuros | *Morgath* |\n| **Piso 3** | **Ciénaga de Sangre** | Nv. 11–15 | Aguas pantanosas que reducen velocidad | *Venomous* |\n| **Piso 4** | **Forja Subterránea** | Nv. 16–20 | Ríos de lava y vapores térmicos | *Ignis-Vulk* |\n| **Piso 5** | **Cumbre de Escarcha** | Nv. 21–25 | Ventiscas que reducen visión y velocidad | *Cryonax* |\n| **Piso 6** | **Archivo del Vacío** | Nv. 26–30 | Portales de teletransporte entre salas | *Malakor* |\n| **Piso 7** | **Jardines Putrefactos** | Nv. 31–35 | Nubes de esporas venenosas | *Sylvan-Rot* |\n| **Piso 8** | **Aguja de la Tormenta** | Nv. 36–40 | Bobinas eléctricas de descarga periódica | *Voltarix* |\n| **Piso 9** | **Foso de Obsidiana** | Nv. 41–45 | Suelo volcánico y alta densidad de élites | *Azazel-Khor* |\n| **Piso 10** | **Sanctum del Rey Inmortal** | Nv. 46–50 | Guardia Imperial y Salón del Trono | *Aethelgard* |",
+  "whats_new": "Documentación oficial de los 10 pisos y sus biomas",
+  "updated_at": "2026-11-05T09:52:52.923915",
+  "previous_version": null,
+  "history": []
+}
