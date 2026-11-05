@@ -1,0 +1,20 @@
+{
+  "id": "misiones-campana-alpha",
+  "title": "📜 Campaña Principal Alpha (Misiones Piso 1 al 10)",
+  "category": "Misiones",
+  "version": "1.0.0",
+  "summary": "Las 10 Misiones de Progresión de la Torre, Objetivos y Recompensas",
+  "image_url": "",
+  "stats": {
+    "Total Misiones": "10 Misiones Principales",
+    "Rango de Pisos": "Piso 1 al Piso 10",
+    "Recompensa Final": "Título Conquistador Alpha + Llave Piso 11",
+    "Oro Total": "35,600 Oro",
+    "EXP Total": "65,700 EXP"
+  },
+  "content": "# 📜 <span style=\"color: #F59E0B;\"><b>Campaña Principal Alpha (Pisos 1 al 10)</b></span>\n\nCada piso de **Immortal Tower** cuenta con una misión maestra encadenada que guía al jugador hasta el Jefe Guardián de dicho piso.\n\n| Piso | Nombre de la Misión | Objetivo Principal | Recompensa EXP / Oro | Ítem / Desbloqueo Especial |\n|---|---|---|---|---|\n| **Piso 1** | **El Despertar del Ascenso** | Eliminar 10 *Slimes de Ceniza*, 5 *Esqueletos Descarriados* y derrotar a **Kaelzar** | 500 EXP / 200 Oro | Poción Menor x5 + Acceso Piso 2 |\n| **Piso 2** | **Susurros en la Cripta** | Recolectar 8 *Colmillos de Necrófago*, 12 *Huesos Malditos* y derrotar a **Morgath** | 1,200 EXP / 450 Oro | Anillo de Cobre Raro |\n| **Piso 3** | **Sangre en el Pantano** | Eliminar 15 *Sanguijuelas Gigantes*, purificar 3 *Altares* y derrotar a **Venomous** | 2,100 EXP / 800 Oro | Antídoto Puro x3 + Botas Tier 2 |\n| **Piso 4** | **Forja de las Almas** | Destruir 10 *Autómatas de Hierro*, 6 *Gólems de Escoria* y derrotar a **Ignis-Vulk** | 3,400 EXP / 1,300 Oro | Lingote de Acero Enano x2 |\n| **Piso 5** | **El Trono de Escarcha** | Eliminar 18 *Espectros Glaciales*, 8 *Lobos de Escarcha* y derrotar a **Cryonax** | 5,000 EXP / 2,000 Oro | Arma Rara Tier 3 de Clase |\n| **Piso 6** | **Bibliotecas del Vacío** | Recuperar 5 *Grimorios Prohibidos*, eliminar 12 *Adivinos* y derrotar a **Malakor** | 7,200 EXP / 3,100 Oro | Pergamino de Hechizo Avanzado |\n| **Piso 7** | **Jardines de la Putrefacción** | Quemar 6 *Nidos de Esporas*, eliminar 20 *Devoradores* y derrotar a **Sylvan-Rot** | 9,800 EXP / 4,500 Oro | Amuleto Épico de Regeneración |\n| **Piso 8** | **Ciudadela del Trueno** | Desactivar 4 *Bobinas Astrales*, eliminar 15 *Centinelas* y derrotar a **Voltarix** | 13,000 EXP / 6,200 Oro | Armadura Tier 4 Legendaria |\n| **Piso 9** | **Abismo de Obsidiana** | Eliminar 25 *Demonios de Abismo*, 10 *Verdugos* y derrotar a **Azazel-Khor** | 17,500 EXP / 8,500 Oro | Piedra de Alma Mítica |\n| **Piso 10** | **El Juicio del Arquitecto** | Superar la Guardia Imperial y derrotar a **Aethelgard, el Rey Inmortal** | 25,000 EXP / 15,000 Oro | <span style=\"color: #F59E0B;\"><b>Título: Conquistador Alpha + Llave Piso 11</b></span> |",
+  "whats_new": "Cargadas las 10 misiones oficiales con objetivos y recompensas exactas.",
+  "updated_at": "2026-11-05T09:52:23.399939",
+  "previous_version": null,
+  "history": []
+}
