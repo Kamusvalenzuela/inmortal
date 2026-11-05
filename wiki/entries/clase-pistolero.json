@@ -1,0 +1,25 @@
+{
+  "id": "clase-pistolero",
+  "title": "🔫 Pistolero",
+  "category": "Clases",
+  "version": "1.0.0",
+  "summary": "Artillero Híbrido (AD + AP) de Cadencia Ultrarrápida y Pólvora Arcana",
+  "image_url": "",
+  "stats": {
+    "HP Base": "450",
+    "MP Base": "220",
+    "AD (Físico)": "28",
+    "AP (Mágico)": "16",
+    "Defensa Física": "14",
+    "Defensa Mágica": "14",
+    "Velocidad (Speed)": "115",
+    "Armadura": "Light (Cuero)",
+    "Arma Principal": "Pistolas Arcanas",
+    "Rol Principal": "DPS Híbrido (AD/AP) / Cadencia"
+  },
+  "content": "# 🔫 <span style=\"color: #F59E0B;\"><b>Pistolero</b></span>\n\n<span style=\"background-color: #F59E0B22; color: #F59E0B; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">HÍBRIDO AD/AP</span> <span style=\"background-color: #38BDF822; color: #38BDF8; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">CADENCIA 1.0S</span>\n\nEspecialista en armas de fuego arcanas que combina **Daño Físico (AD)** y **Poder de Habilidad (AP)** con la cadencia de disparo más rápida del juego.\n\n## 🪄 Kit de Hechizos Base (4 Spells)\n\n| # | Hechizo | Costo MP | Cooldown | Cast Time | Tipo / Mecánica | Efecto Detallado |\n|---|---|---|---|---|---|---|\n| 1 | **Bala de Mercurio** | 20 MP | 1.0s | 150ms | <span style=\"color: #38BDF8;\"><b>Proyectil (6 tiles)</b></span> | Disparo veloz a **6 casillas** cada 1 segundo. |\n| 2 | **Granadazo de Fósforo** | 55 MP | 5.5s | 350ms | <span style=\"color: #F59E0B;\"><b>AOE Blind</b></span> | Granada incendiaria que aplica <span style=\"color: #F59E0B;\"><b>Blind 2.5s</b></span> en **2 casillas**. |\n| 3 | **Ignición de Pólvora** | 65 MP | 15.0s | Instant | <span style=\"color: #EF4444;\"><b>Self Buff</b></span> | Otorga <span style=\"color: #10B981;\"><b>+45% AD y +45% AP</b></span> (<span style=\"color: #EF4444;\"><b>-12 HP/s</b></span>) por **6s**. |\n| 4 | **Fandango de Balas** | 85 MP | 8.5s | 400ms | <span style=\"color: #A855F7;\"><b>AOE Silence</b></span> | Descarga en abanico que aplica <span style=\"color: #A855F7;\"><b>Silence 1.5s</b></span> en área. |",
+  "whats_new": "Escalado dual AD/AP y enfriamiento de 1.0s en Bala de Mercurio.",
+  "updated_at": "2026-11-05T09:51:18.768264",
+  "previous_version": null,
+  "history": []
+}
