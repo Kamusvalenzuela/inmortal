@@ -1,0 +1,18 @@
+{
+  "id": "torneo-arcade-recompensas",
+  "title": "🏆 Arsenal y Hechizos Exclusivos de Torneo (Modo Arcade)",
+  "category": "Items y Equipamiento",
+  "version": "1.0.0",
+  "summary": "Las 8 Armas de Campeón y los 10 Hechizos Supremos de Torneo",
+  "image_url": "",
+  "stats": {
+    "Rareza Torneo": "Exclusivo Torneo (Color Dorado/Carmesí)",
+    "Total Armas": "8 Armas de Campeón",
+    "Total Hechizos": "10 Spells Supremos (1 por Clase)"
+  },
+  "content": "# 🏆 <span style=\"color: #F59E0B;\"><b>Arsenal y Hechizos Exclusivos de Torneo</b></span>\n\nLos campeones de los eventos competitivos y del **Modo Torneo Arcade** acceden a equipamiento de rareza **Exclusivo Torneo** y a un **5.º Hechizo Supremo** por clase.\n\n## 🗡️ Las 8 Armas Exclusivas de Torneo\n1. **Cetro del Sol Poniente** (*Báculo*): +210 AP, proyectiles ígneos dejan quemadura solar.\n2. **Códice del Serafín Eterno** (*Libro Sagrado*): +185 AP, +350 MP, reduce cooldowns de soporte.\n3. **Grimorio de la Discordia Real** (*Libro de Armonías*): +190 AP, amplifica buffs grupales un 15% adicional.\n4. **Colmillo del Monarca** (*Espada 1 Mano*): +175 AD, +90 Def, cada bloqueo genera onda de choque.\n5. **Guillotina del Coliseo** (*Mandoble Pesado*): +265 AD, ignora 25% de la armadura física.\n6. **Agujas del Eclipse Carmesí** (*Dagas*): +230 AD, +25% Crítico, reinicia sigilo al ejecutar.\n7. **Arco Astral de Orión** (*Arco*): +240 AD, alcance +1 casilla y flechas perforantes.\n8. **Pacificadores del Juicio Final** (*Pistolas Arcanas*): +180 AD, +150 AP, disparos dobles.\n\n## 🌟 Los 10 Hechizos Supremos de Torneo\n- **Mago Ofensivo — Supernova Imperial:** Explosión solar en 4 casillas con **Stun 2s** y daño AP 250%.\n- **Mago Defensivo — Prisión del Monolito:** Levanta muros de cristal que encierran y aplican **Snare 5s**.\n- **Mago Curandero — Milagro de Resurrección:** Cura 60% del HP máximo grupal y otorga **Cleanse + Escudo**.\n- **Mago Buffer — Sinfonía de los Dioses:** +40% AD/AP y +35% Velocidad a todo el escuadrón por 10s.\n- **Guerrero Tanque — Égida del Titán:** Inmunidad al daño físico por 4s y **Taunt** en 4 casillas.\n- **Guerrero AOE — Cataclismo del Berserker:** Salto giratorio que golpea 3 veces en área con sangrado.\n- **Asesino — Danza de las Mil Sombras:** Teletransporte sobre el objetivo con 4 golpes críticos y **Silence 2.5s**.\n- **Arquero — Flecha del Cometa:** Proyectil global en línea recta que atraviesa enemigos y **Stun 2.5s**.\n- **Pistolero — Lluvia de Plomo Arcano:** Bombardeo circular que aplica **Blind + Silence 2s**.\n- **Paladín — Decreto del Rey Inmortal:** Consagra el suelo sanando aliados y aplicando **Stun 2s** a enemigos.",
+  "whats_new": "Añadidas las 8 armas y los 10 hechizos exclusivos de Torneo de la Sección 13 de la Guía.",
+  "updated_at": "2026-11-05T09:52:00.964207",
+  "previous_version": null,
+  "history": []
+}
