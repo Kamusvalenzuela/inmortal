@@ -1,0 +1,25 @@
+{
+  "id": "clase-guerrero-tanque",
+  "title": "🛡️ Guerrero Tanque",
+  "category": "Clases",
+  "version": "1.0.0",
+  "summary": "Baluarte Acorazado de Vanguardia, Provocación (Taunt) y Escudo Pesado",
+  "image_url": "",
+  "stats": {
+    "HP Base": "680",
+    "MP Base": "140",
+    "AD (Físico)": "24",
+    "AP (Mágico)": "5",
+    "Defensa Física": "32",
+    "Defensa Mágica": "18",
+    "Velocidad (Speed)": "90",
+    "Armadura": "Heavy (Placas)",
+    "Arma Principal": "Espada Normal + Escudo",
+    "Rol Principal": "Main Tank / Frontline"
+  },
+  "content": "# 🛡️ <span style=\"color: #38BDF8;\"><b>Guerrero Tanque</b></span>\n\n<span style=\"background-color: #38BDF822; color: #38BDF8; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">MAIN TANK</span> <span style=\"background-color: #10B98122; color: #10B981; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">TAUNT & CC</span>\n\nLa muralla viviente de *Immortal Tower*. Lidera con **680 HP base y 32 de Defensa Física**, diseñado para absorber la furia de los Jefes de Piso mediante provocaciones en área.\n\n## 🪄 Kit de Hechizos Base (4 Spells)\n\n| # | Hechizo | Costo MP | Cooldown | Cast Time | Tipo / Mecánica | Efecto Detallado |\n|---|---|---|---|---|---|---|\n| 1 | **Embestida de Escudo** | 20 MP | 3.0s | 150ms | <span style=\"color: #38BDF8;\"><b>Melee</b></span> | Golpe contundente con escudo que aplica <span style=\"color: #EF4444;\"><b>Stun 1.5s</b></span>. |\n| 2 | **Provocación Inflexible** | 35 MP | 7.0s | 200ms | <span style=\"color: #F59E0B;\"><b>AOE Taunt</b></span> | Provoca enemigos en área circular y otorga <span style=\"color: #10B981;\"><b>+25% Def Física</b></span> por **4s**. |\n| 3 | **Fortaleza Inamovible** | 50 MP | 22.0s | Instant | <span style=\"color: #10B981;\"><b>Self Buff</b></span> | Duplica la armadura (<span style=\"color: #10B981;\"><b>+100% Def Física</b></span>) a cambio de <span style=\"color: #EF4444;\"><b>-50% AD</b></span> por **7s**. |\n| 4 | **Fisión de Baluarte** | 65 MP | 11.0s | 400ms | <span style=\"color: #EF4444;\"><b>AOE Impacto</b></span> | Quiebra el suelo e inmoviliza (<span style=\"color: #EF4444;\"><b>Snare</b></span>) en **2 casillas por 3s**. |",
+  "whats_new": "680 HP base, 32 Def Física y habilidades de Taunt y Baluarte.",
+  "updated_at": "2026-11-05T09:51:40.098973",
+  "previous_version": null,
+  "history": []
+}
