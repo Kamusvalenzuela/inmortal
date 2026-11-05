@@ -2,7 +2,20 @@
   "category": "level",
   "title": "Top Nivel",
   "metric_label": "Nivel",
-  "updated_at": "2026-11-04T12:59:36.525388",
-  "total_entries": 0,
-  "entries": []
+  "updated_at": "2026-11-05T10:03:40.098873",
+  "total_entries": 2,
+  "entries": [
+    {
+      "position": 1,
+      "player_name": "Test",
+      "score": 3.0,
+      "description": ""
+    },
+    {
+      "position": 2,
+      "player_name": "Kamus",
+      "score": 1.0,
+      "description": "Admin"
+    }
+  ]
 }
