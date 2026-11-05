@@ -1,0 +1,25 @@
+{
+  "id": "clase-guerrero-aoe",
+  "title": "⚔️ Guerrero AOE",
+  "category": "Clases",
+  "version": "1.0.0",
+  "summary": "Berserker de Mandoble Pesado y Devastación Física en 360°",
+  "image_url": "",
+  "stats": {
+    "HP Base": "550",
+    "MP Base": "180",
+    "AD (Físico)": "30",
+    "AP (Mágico)": "8",
+    "Defensa Física": "20",
+    "Defensa Mágica": "14",
+    "Velocidad (Speed)": "105",
+    "Armadura": "Heavy / Light",
+    "Arma Principal": "Espada Pesada (Mandoble)",
+    "Rol Principal": "Bruiser / Daño Físico AOE"
+  },
+  "content": "# ⚔️ <span style=\"color: #EF4444;\"><b>Guerrero AOE</b></span>\n\n<span style=\"background-color: #EF444422; color: #EF4444; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">BRUISER AOE</span> <span style=\"background-color: #F59E0B22; color: #F59E0B; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">MANDOBLE</span>\n\nCombatiente de primera línea que blande enormes **Espadas Pesadas (Mandobles)** para limpiar oleadas enteras de monstruos y romper formaciones enemigas en PvP.\n\n## 🪄 Kit de Hechizos Base (4 Spells)\n\n| # | Hechizo | Costo MP | Cooldown | Cast Time | Tipo / Mecánica | Efecto Detallado |\n|---|---|---|---|---|---|---|\n| 1 | **Estocada Penetrante** | 30 MP | 2.5s | 250ms | <span style=\"color: #38BDF8;\"><b>Lineal (2 tiles)</b></span> | Estocada pesada que atraviesa hasta 2 casillas frente al guerrero. |\n| 2 | **Torbellino de Aspas** | 55 MP | 4.5s | 300ms | <span style=\"color: #EF4444;\"><b>AOE 360°</b></span> | Giro letal de 360° que golpea a todos los enemigos adyacentes. |\n| 3 | **Postura del Tifón** | 50 MP | 16.0s | Instant | <span style=\"color: #F59E0B;\"><b>Self Buff</b></span> | Otorga <span style=\"color: #10B981;\"><b>+50% AD y +25% Velocidad</b></span> (<span style=\"color: #EF4444;\"><b>-35% Def</b></span>) por **6s**. |\n| 4 | **Caída del Dragón** | 80 MP | 9.0s | 500ms | <span style=\"color: #EF4444;\"><b>Salto AOE</b></span> | Salto mortal que impacta aplicando <span style=\"color: #EF4444;\"><b>Stun 1.8s</b></span> en **2 casillas**. |",
+  "whats_new": "Especialista en Espada Pesada, Torbellino 360° y Caída del Dragón.",
+  "updated_at": "2026-11-05T09:49:01.378679",
+  "previous_version": null,
+  "history": []
+}
