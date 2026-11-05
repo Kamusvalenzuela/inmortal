@@ -2,14 +2,22 @@
   "category": "classification",
   "title": "Top Clasificación",
   "metric_label": "Puntos",
-  "updated_at": "2026-11-04T14:51:34.995231",
-  "total_entries": 1,
+  "updated_at": "2026-11-05T09:41:45.420235",
+  "total_entries": 2,
   "entries": [
     {
       "position": 1,
+      "player_name": "Test",
+      "score": 750.0,
+      "description": "Bronce",
+      "league": "Bronce"
+    },
+    {
+      "position": 2,
       "player_name": "Kamus",
       "score": 140.0,
-      "description": "Admin"
+      "description": "Admin",
+      "league": "Hierro"
     }
   ]
 }
