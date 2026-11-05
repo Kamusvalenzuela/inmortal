@@ -1,0 +1,18 @@
+{
+  "id": "sistema-rarezas-y-combate",
+  "title": "💎 Sistema de Rarezas (11 Niveles) y Reglas Intersect",
+  "category": "Sistemas y Lore",
+  "version": "1.0.0",
+  "summary": "Jerarquía cromática de ítems y estados alterados soportados nativamente",
+  "image_url": "",
+  "stats": {
+    "Total Rarezas": "11 Niveles de Rareza",
+    "Motor Base": "Intersect Engine 2D",
+    "Estados CC": "Stun, Snare, Blind, Silence, Taunt, Stealth, Cleanse"
+  },
+  "content": "# 💎 <span style=\"color: #38BDF8;\"><b>Sistema de Rarezas y Mecánicas Intersect</b></span>\n\n## 🌈 Los 11 Niveles de Rareza de Ítems\n\n1. <span style=\"color: #9CA3AF;\"><b>1. Común (Gris)</b></span> — Equipamiento básico de inicio.\n2. <span style=\"color: #10B981;\"><b>2. Poco Común (Verde)</b></span> — Ítems forjados o drops frecuentes.\n3. <span style=\"color: #38BDF8;\"><b>3. Raro (Azul)</b></span> — Recompensas de misiones y subjefes.\n4. <span style=\"color: #A855F7;\"><b>4. Épico (Púrpura)</b></span> — Drops de Jefes de Piso y mazmorras.\n5. <span style=\"color: #F59E0B;\"><b>5. Legendario (Dorado)</b></span> — Armas de reliquia de pisos altos.\n6. <span style=\"color: #EF4444;\"><b>6. Mítico (Rojo Carmesí)</b></span> — Botín de Aethelgard y desafíos extremos.\n7. <span style=\"color: #EC4899;\"><b>7. Ancestral (Rosa Neón)</b></span> — Reliquias de la Primera Era.\n8. <span style=\"color: #14B8A6;\"><b>8. Celestial (Turquesa)</b></span> — Bendecido por los Arcontes.\n9. <span style=\"color: #6366F1;\"><b>9. Abisal (Índigo Oscuro)</b></span> — Forjado en el vacío profundo.\n10. <span style=\"color: #EAB308;\"><b>10. Exclusivo Torneo (Oro Real)</b></span> — Reservado a Campeones de Torneo.\n11. <span style=\"color: #F43F5E;\"><b>11. Inmortal (Multicolor / Rubí)</b></span> — Piezas únicas en el servidor.\n\n## ⚙️ Estados Alterados Nativos (Crowd Control)\n- **Stun (Aturdir):** Impide movimiento y lanzamiento de hechizos.\n- **Snare (Inmovilizar):** Bloquea el movimiento pero permite lanzar hechizos.\n- **Blind (Ceguera):** Los ataques básicos fallan temporalmente.\n- **Silence (Silencio):** Impide lanzar hechizos pero permite moverse.\n- **Taunt (Provocar):** Fuerza al objetivo a atacar al tanque.\n- **Stealth (Sigilo):** Invisibilidad temporal que se rompe al atacar.\n- **Cleanse (Purificar):** Elimina todos los efectos adversos activos.",
+  "whats_new": "Documentadas las 11 rarezas oficiales y las mecánicas de combate",
+  "updated_at": "2026-11-05T09:53:00.798771",
+  "previous_version": null,
+  "history": []
+}
