@@ -1,0 +1,25 @@
+{
+  "id": "clase-paladin",
+  "title": "⚜️ Paladín",
+  "category": "Clases",
+  "version": "1.0.0",
+  "summary": "Campeón Sagrado Híbrido (Tanque / Sanador / Purificador)",
+  "image_url": "",
+  "stats": {
+    "HP Base": "620",
+    "MP Base": "240",
+    "AD (Físico)": "22",
+    "AP (Mágico)": "18",
+    "Defensa Física": "28",
+    "Defensa Mágica": "22",
+    "Velocidad (Speed)": "95",
+    "Armadura": "Heavy / Escudo",
+    "Arma Principal": "Espada Normal + Escudo",
+    "Rol Principal": "Off-Tank / Soporte Sagrado"
+  },
+  "content": "# ⚜️ <span style=\"color: #F59E0B;\"><b>Paladín</b></span>\n\n<span style=\"background-color: #F59E0B22; color: #F59E0B; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">TANQUE SAGRADO</span> <span style=\"background-color: #10B98122; color: #10B981; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">HEAL & CLEANSE</span>\n\nFusión inquebrantable entre guerrero pesado y clérigo solar. Con **620 HP, 28 Def Física y 22 Def Mágica**, protege a sus aliados mientras aturde demonios y purifica maldiciones.\n\n## 🪄 Kit de Hechizos Base (4 Spells)\n\n| # | Hechizo | Costo MP | Cooldown | Cast Time | Tipo / Mecánica | Efecto Detallado |\n|---|---|---|---|---|---|---|\n| 1 | **Juicio Radiante** | 30 MP | 2.8s | 250ms | <span style=\"color: #F59E0B;\"><b>Melee Híbrido</b></span> | Golpe consagrado que suma escalado **AD + AP**. |\n| 2 | **Martillo Divino** | 55 MP | 6.5s | 400ms | <span style=\"color: #EF4444;\"><b>Proyectil / AOE</b></span> | Lanza un martillo de luz que causa <span style=\"color: #EF4444;\"><b>Stun 2s</b></span> en **2 casillas**. |\n| 3 | **Voto de Protección** | 70 MP | 18.0s | 300ms | <span style=\"color: #38BDF8;\"><b>Self Buff</b></span> | Otorga <span style=\"color: #10B981;\"><b>+70% Def y M.Def</b></span> (<span style=\"color: #EF4444;\"><b>-35% AD</b></span>) por **7s**. |\n| 4 | **Bastión del Sol** | 100 MP | 16.0s | 600ms | <span style=\"color: #10B981;\"><b>AOE Heal + Cleanse</b></span> | Sana al grupo, aumenta armadura y aplica **Cleanse** total. |",
+  "whats_new": "Tanque híbrido con curación grupal, armadura y Cleanse.",
+  "updated_at": "2026-11-05T09:49:14.645068",
+  "previous_version": null,
+  "history": []
+}
