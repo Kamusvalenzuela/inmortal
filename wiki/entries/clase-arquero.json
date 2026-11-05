@@ -19,7 +19,7 @@
   },
   "content": "# 🏹 <span style=\"color: #10B981;\"><b>Arquero</b></span>\n\n<span style=\"background-color: #10B98122; color: #10B981; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">RANGO 8 TILES</span> <span style=\"background-color: #F59E0B22; color: #F59E0B; padding: 2px 8px; border-radius: 6px; font-weight: bold;\">DPS FÍSICO</span>\n\nDomina el combate a larga distancia con flechas capaces de recorrer **8 casillas** y lluvias de saetas que ralentizan el avance enemigo.\n\n## 🪄 Kit de Hechizos Base (4 Spells)\n\n| # | Hechizo | Costo MP | Cooldown | Cast Time | Tipo / Mecánica | Efecto Detallado |\n|---|---|---|---|---|---|---|\n| 1 | **Flecha Perforante** | 25 MP | 1.5s | 250ms | <span style=\"color: #38BDF8;\"><b>Proyectil (8 tiles)</b></span> | Disparo de largo alcance (**8 casillas**) con alto escalado AD. |\n| 2 | **Lluvia de Saetas** | 65 MP | 6.0s | 500ms | <span style=\"color: #F59E0B;\"><b>AOE Rango</b></span> | Bombardeo de flechas que aplica <span style=\"color: #EF4444;\"><b>Snare 2.5s</b></span> en la zona. |\n| 3 | **Puntería Inmóvil** | 55 MP | 14.0s | Instant | <span style=\"color: #10B981;\"><b>Self Buff</b></span> | Otorga <span style=\"color: #10B981;\"><b>+80% AD</b></span> pero reduce <span style=\"color: #EF4444;\"><b>-60% Velocidad</b></span> por **6s**. |\n| 4 | **Flecha de Conmoción** | 70 MP | 10.0s | 400ms | <span style=\"color: #EF4444;\"><b>Impacto AOE</b></span> | Explota al impactar causando <span style=\"color: #EF4444;\"><b>Stun 2s</b></span> en **2 casillas**. |",
   "whats_new": "Alcance de 8 casillas y postura de francotirador (+80% AD).",
-  "updated_at": "2026-11-05T09:50:55.772597",
+  "updated_at": "2026-11-05T10:04:46.022315",
   "previous_version": null,
   "history": []
 }
