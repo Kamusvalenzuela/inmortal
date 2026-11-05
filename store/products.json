@@ -1,59 +1,61 @@
 {
-  "updated_at": "2026-11-05T10:08:37.952223",
+  "updated_at": "2026-11-05T12:44:11.309219",
   "total_products": 2,
   "products": [
     {
       "id": "pack-starter-coins",
       "name": "Bolsa de Monedas Antiguas",
-      "description": "Contiene 500 Monedas de la Torre para mercaderes y cosméticos.",
+      "description": "Contiene:\n\n- Título exclusivo: <span style=\"color:#A855F7; font-weight:600;\">'Early Supporter'</span>\n- Rol de discord: <span style=\"color:#A855F7; font-weight:600;\">'Early Supporter'</span>\n- <span style=\"color:#F59E0B; font-weight:600;\">500 monedas</span> <span style=\"color:#A855F7; font-weight:600;\">+1500 EXTRA!</span>",
       "image_url": "https://immortaltower.net/assets/coins-small.png",
-      "coins": 500,
+      "coins": 0,
       "is_package": true,
-      "product_type": "Paquete / Bundle",
+      "product_type": "Paquete",
       "badge_text": "¡PAQUETE ESPECIAL!",
       "accent_color": "#F59E0B",
       "included_items": [
+        "Contiene:",
         "Título exclusivo: 'Early Supporter'",
-        "+1500 monedas extras",
-        "Rol de discord: 'Early Supporter'"
+        "Rol de discord: 'Early Supporter'",
+        "500 monedas +1500 EXTRA!"
       ],
       "prices": {
-        "ARS": 2500.0,
-        "BRL": 15.0,
-        "USD": 2.0,
-        "MXN": 30.0,
-        "CLP": 2800.0,
-        "EUR": 1.8
+        "ARS": 5000.0,
+        "USD": 2.5,
+        "BRL": 25.0,
+        "PYG": 15000.0,
+        "MXN": 50.0,
+        "CLP": 3500.0
       },
       "is_active": true,
       "payment_method": "Transferencia manual AstroPay / Directa",
-      "updated_at": "2026-11-05T10:07:28.385491"
+      "updated_at": "2026-11-05T12:43:20.065202"
     },
     {
       "id": "pack-hero-bundle",
       "name": "Cofre del Héroe Legendario",
-      "description": "2000 Monedas de la Torre + Título exclusivo 'Ascendente'.",
+      "description": "Contenido:\n- <span style=\"color:#F59E0B; font-weight:600;\">2000 Monedas</span> de la Torre\n- Título exclusivo '<span style=\"color:#A855F7; font-weight:600;\">Ascendente</span>'.",
       "image_url": "https://immortaltower.net/assets/coins-hero.png",
-      "coins": 2000,
+      "coins": 0,
       "is_package": true,
-      "product_type": "Paquete / Bundle",
+      "product_type": "Paquete",
       "badge_text": "Paquete especial",
       "accent_color": "#00AAFF",
       "included_items": [
-        "2000 Monedas de la torre",
-        "Título exclusivo 'Ascendente'"
+        "Contenido:",
+        "2000 Monedas de la Torre",
+        "Título exclusivo 'Ascendente'."
       ],
       "prices": {
         "ARS": 10000.0,
+        "USD": 7.0,
         "BRL": 50.0,
-        "USD": 8.0,
+        "PYG": 0.0,
         "MXN": 100.0,
-        "CLP": 10000.0,
-        "EUR": 7.5
+        "CLP": 10000.0
       },
       "is_active": true,
       "payment_method": "Transferencia manual AstroPay / Directa",
-      "updated_at": "2026-11-05T10:08:37.947432"
+      "updated_at": "2026-11-05T12:44:11.304209"
     }
   ]
 }
